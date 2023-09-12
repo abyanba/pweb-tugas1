@@ -1,0 +1,69 @@
+body {
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    background-image: url("resources/background2.jpg");
+    backdrop-filter: blur(10px);
+    background-blend-mode: darken;
+}
+
+body h1 {
+    font-family: "Minecrafter";
+    font-size: 64px;
+    -webkit-text-stroke: 2px rgb(49, 71, 103);
+    color: white;
+    letter-spacing: 16px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 16px;
+    padding: 8px;
+    border: 4px solid white;
+    height: 100%;
+    font-family: "Plus Jakarta Sans";
+    font-size: medium;
+    color: white;
+    letter-spacing: normal;
+    background-color: rgba(30, 40, 54, 0.929);
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin: 16px;
+}
+
+.cardpict {
+    display: flex;
+    text-align: justify;
+    margin: 16px;
+}
+
+.container p {
+    margin: 10px;
+}
+
+.container ul {
+    margin: 0px;
+}
+
+.container ul p {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.card table, th, td {
+    text-align: center;
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
