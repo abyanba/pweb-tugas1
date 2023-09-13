@@ -47,6 +47,22 @@ body h1 {
     margin: 16px;
 }
 
+.button {
+    display: inline-block;
+    text-align: center;
+    margin: 10px 8px 10px 32px;
+    padding: 12px;
+    color: white;
+    background-color: rgb(49, 71, 103);
+    border: 2px solid white;
+    text-decoration: none;
+    font-family: "Plus Jakarta Sans";
+}
+
+.button:hover {
+    background-color: rgb(30, 40, 54);
+}
+
 .container p {
     margin: 10px;
 }
