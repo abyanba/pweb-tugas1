@@ -1,5 +1,5 @@
 ## Tugas 1
-https://pweb-tugas1.vercel.app/
+<a href="https://pweb-tugas1.vercel.app/" target="_blank">https://pweb-tugas1.vercel.app/</a>
 
 ## Tugas 3
-https://pweb-tugas3-lemon.vercel.app/
+<a href="https://pweb-tugas3-lemon.vercel.app/" target="_blank">https://pweb-tugas3-lemon.vercel.app/</a>
